@@ -1,10 +1,8 @@
 # HELLO FELLOW HUMAN
 - 🤓 Viktor "Gip" Gip 
-- 💻 Frontend stuff with react
-- 🕹️ Some gamedev
+- 💻 Frontend web and app dev
+- 🕹️ Learning gamedev
 <!-- Actual text -->
-
-You can find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
