@@ -1,7 +1,7 @@
 # HELLO FELLOW HUMAN
 - 🤓 Viktor "Gip" Gip 
 - 💻 Frontend web and app dev
-- 🕹️ Learning gamedev
+- 🕹️ Hobby gamedev
 <!-- Actual text -->
 
 <!-- Icons -->
